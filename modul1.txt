@@ -1,0 +1,2 @@
+git clone, clones, repo
+git add, adds file to the
